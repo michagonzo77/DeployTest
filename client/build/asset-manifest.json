@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfe371e0.css",
+    "main.js": "/static/js/main.437a79d5.js",
+    "static/js/845.3c9bd8c4.chunk.js": "/static/js/845.3c9bd8c4.chunk.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/spriteSound.mp3": "/static/media/spriteSound.b3746b4e7def0b180a4c.mp3",
+    "static/media/HeroAstronaut.jpeg": "/static/media/HeroAstronaut.8fb0e7a4f8f46290c5a1.jpeg",
+    "static/media/full_song.mp3": "/static/media/full_song.68a439c108f34fae8df4.mp3",
+    "static/media/rocketship.jpeg": "/static/media/rocketship.ce327db7f2de170fb5d1.jpeg",
+    "static/media/salesPinnerSS.png": "/static/media/salesPinnerSS.788639910d6e43169c90.png",
+    "static/media/HandJet.ttf": "/static/media/HandJet.2729b7c4ff793684ed40.ttf",
+    "static/media/Frame 4.png": "/static/media/Frame 4.e103b7dea95a710fb1f2.png",
+    "static/media/synth.mp3": "/static/media/synth.4c03991853658dd9750c.mp3",
+    "static/media/vocal.mp3": "/static/media/vocal.f46d7e5e194fa685ddf5.mp3",
+    "static/media/drums.mp3": "/static/media/drums.97ee1f5f64182b04c644.mp3",
+    "static/media/chords.mp3": "/static/media/chords.b196481ce4a915254105.mp3",
+    "static/media/bass.mp3": "/static/media/bass.582160c1a8595376aa39.mp3",
+    "static/media/mernchingband.png": "/static/media/mernchingband.11dc4edaa7f95aea750c.png",
+    "static/media/biopic.jpg": "/static/media/biopic.7f06d1332a209038caf4.jpg",
+    "static/media/mernchingcard.png": "/static/media/mernchingcard.89284a47a019b68932db.png",
+    "static/media/googlecard.png": "/static/media/googlecard.5064e8dc3d8188e43069.png",
+    "static/media/MichaelLogo.png": "/static/media/MichaelLogo.6cc9b14779aeb24bcfc1.png",
+    "static/media/camscavenge.png": "/static/media/camscavenge.7fe8347c659e70e9eaa8.png",
+    "static/media/mernchingcardsmall.png": "/static/media/mernchingcardsmall.1693b4af142b72c2fbc2.png",
+    "static/media/cards.png": "/static/media/cards.adabecfd3bf069ed5727.png",
+    "index.html": "/index.html",
+    "main.bfe371e0.css.map": "/static/css/main.bfe371e0.css.map",
+    "main.437a79d5.js.map": "/static/js/main.437a79d5.js.map",
+    "845.3c9bd8c4.chunk.js.map": "/static/js/845.3c9bd8c4.chunk.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfe371e0.css",
+    "static/js/main.437a79d5.js"
+  ]
+}
