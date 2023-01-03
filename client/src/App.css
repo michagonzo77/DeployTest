@@ -655,7 +655,7 @@ html {
 
 /* RESPONSIVENESS */
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   
   .heroSection {
     background: url('./static/images/HeroAstronaut.jpeg') no-repeat;
@@ -686,12 +686,12 @@ html {
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 688px) {
   .heroSection {
     background: url('./static/images/rocketship.jpeg') no-repeat center;
     background-size: 100% auto;
     width: 100vw;
-    min-height: 490px;
+    min-height: 590px;
     justify-content: center;
   }
   .heroText {
@@ -715,55 +715,72 @@ html {
 
 
 .fs-xl {
-  font-size: 4vw;
+  font-size: 3vw;
 }
 .fs-l {
-  font-size: 2.6vw;
+  font-size: 2.4vw;
 }
 .fs-m {
-  font-size: 2.2rem;
+  font-size: 1.8vw;
 }
 .fs-s {
-  font-size: 1.25rem;
+  font-size: 1.25vw;
 }
 .fs-xs {
-  font-size: 1rem;
+  font-size: 1vw;
+}
+
+@media (max-width: 1400px) {
+  .fs-xl {
+    font-size: 3.5vw;
+  }
+  .fs-l {
+    font-size: 2.9vw;
+  }
+  .fs-m {
+    font-size: 2.3vw;
+  }
+  .fs-s {
+    font-size: 1.75vw;
+  }
+  .fs-xs {
+    font-size: 1.5vw;
+  }
 }
 
 @media (max-width: 1200px) {
   .fs-xl {
-    font-size: 4vw;
+    font-size: 4.1vw;
   }
   .fs-l {
-    font-size: 6vw;
+    font-size: 3.5vw;
   }
   .fs-m {
-    font-size: 1.5rem;
+    font-size: 2.9vw;
   }
   .fs-s {
-    font-size: 1rem;
+    font-size: 2.35vw;
   }
   .fs-xs {
-    font-size: .75rem;
+    font-size: 2.1vw;
   }
 }
-
 
 @media (max-width: 1024px) {
   .fs-xl {
     font-size: 4vw;
   }
   .fs-l {
-    font-size: 7vw;
+    font-size: 3.5vw;
   }
   .fs-m {
-    font-size: 1.5rem;
+    font-size: 2.6vw;
   }
   .fs-s {
-    font-size: 1rem;
+    font-size: 2.05vw;
   }
   .fs-xs {
-    font-size: .75rem;
+    font-size: 1.8vw;
   }
 }
 
@@ -771,39 +788,35 @@ html {
   .fs-xl {
     font-size: 6vw;
   }
-  
   .fs-l {
-    font-size: 10vw;
+    font-size: 5vw;
   }
-  
   .fs-m {
-    font-size: 1.5rem;
+    font-size: 3.7vw;
   }
-  
   .fs-s {
-    font-size: 1rem;
+    font-size: 3vw;
   }
-  
   .fs-xs {
-    font-size: .75rem;
+    font-size: 2.5vw;
   }
 }
 
-@media (max-width: 525px) {
+@media (max-width: 575px) {
   .fs-xl {
-    font-size: 7vw;
+    font-size: 8vw;
   }
   .fs-l {
-    font-size: 11vw;
+    font-size: 9vw;
   }
   .fs-m {
-    font-size: 1.6rem;
+    font-size: 7vw;
   }
   .fs-s {
-    font-size: 1rem;
+    font-size: 4vw;
   }
   .fs-xs {
-    font-size: .85rem;
+    font-size: 3vw;
   }
 }
 
